@@ -56,7 +56,7 @@ const App = () => {
 
   useEffect(() => {
     const requestJson = {
-      access_key: process.env.REACT_APP_SERVICE_KEY,
+      access_key: "bda5d230-c9f8-41db-8c86-35a0449483f1",
       argument: {
         file: String(state.base64URL[1]),
         type: "jpeg",
