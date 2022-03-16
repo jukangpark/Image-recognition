@@ -6,6 +6,9 @@
 
 ## published
 
+<img src="https://user-images.githubusercontent.com/75718898/158526361-50b974b8-d7e0-40c4-96e7-f977bc5cef30.png" alt="image">
+<a href="https://jukangpark.github.io/Image-recognition"> published web</a>
+
 ## 참고자료
 
 > 공공 인공지능 오픈 API·DATA 서비스 포털  
