@@ -24,3 +24,8 @@
 ### 지원하는 객체 카테고리 (총 80개)
 
 > person, bicycle, car, motorcycle, airplane, bus, train, truck, boat, traffic light, fire hydrant, stop sign, parking meter, bench, bird, cat, dog, horse, sheep, cow, elephant, bear, zebra, giraffe, backpack, umbrella, handbag, tie, suitcase, frisbee, skis, snowboard, sports ball, kite, baseball bat, baseball glove, skateboard, surfboard, tennis racket, bottle, wine glass, cup, fork, knife, spoon, bowl, banana, apple, sandwich, orange, broccoli, carrot, hot dog, pizza, donut, cake, chair, couch, potted plant, bed, dining table, toilet, tv, laptop, mouse, remote, keyboard, cell phone, microwave, oven, toaster, sink, refrigerator, book, clock, vase, scissors, teddy, bear, hair drier, toothbrush
+
+### 문제
+
+> 이미지에서 Base64 로 인코딩 하고 난 다음 API 요청 할 때 문자열 수정하기  
+> gh-pages 로 deploy 하였을 때 https:// 를 이용하기 때문에 https:// api 요청이 정상적으로 작동하지 않는점.
