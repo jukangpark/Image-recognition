@@ -9,7 +9,8 @@
 <img width="600px" src="https://user-images.githubusercontent.com/75718898/158535740-3b7c4768-8552-4d3e-b759-3e3f89454cd2.png" alt="image">
 <a href="https://jukangpark.github.io/Image-recognition"> published web</a>
 
-> deploy 환경에서는 작동하지 않음  
+<bold>deploy 환경에서는 작동하지 않음❗️ </bold>
+
 > 이유: api 가 http 를 이용하기 때문에 https 로 deploy 된 gh-pages 를 통해서는 데이터를 받아올 수 없음.
 > 개선해야할 점.
 
